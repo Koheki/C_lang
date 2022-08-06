@@ -1264,6 +1264,6 @@ if (tmp == NULL) {
 
 ## 20章：複数のソースファイル
 
-大体[Clang_Supplement.md](Clang_Supplement.md#c言語のファイルの違い)に書いてあるので省略
+大体[Clang_file.md](./Clang_file.md)に書いてあるので省略
 
 
