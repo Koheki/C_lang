@@ -205,3 +205,83 @@ https://www.ibm.com/docs/ja/zos/2.3.0?topic=odod-overview-data-objects
 ポインタ⑤（動的メモリ割り当て） | Programming Place Plus　Ｃ言語編　第３５章
 https://programming-place.net/ppp/contents/c/035.html#allocated_storage_duration
 
+Local
+
+教育訓練給付制度ってなに？返済義務なしの超お得な制度とは？ | manabi &
+https://manabi-and.com/archives/59
+
+NULL | Programming Place Plus　Ｃ言語編　標準ライブラリのリファレンス
+https://programming-place.net/ppp/contents/c/appendix/reference/NULL.html
+
+分割の定石 - 苦しんで覚えるC言語
+https://9cguide.appspot.com/20-02.html
+
+配列と構造体の動的確保 - 東京大学工学部 精密工学科 プログラミング応用 I・II
+http://www.den.t.u-tokyo.ac.jp/ad_prog/struct/
+
+【C言語】realloc関数｜正しい使い方と注意点 メモリ断片化など | MaryCore
+https://marycore.jp/prog/c-lang/realloc/
+
+C言語のdefineについて
+http://www.c-lang.org/define.html
+
+C言語のプリプロセッサにおけるマクロと演算子の一覧
+https://segakuin.com/c/preprocessor.html
+
+C/C++のビルドの仕組みとライブラリ - かみのメモ
+https://kamino.hatenablog.com/entry/c%2B%2B-principle-of-build-library
+
+一週間で身につくC言語の基本|第７日目：複雑なファイル分割
+https://c-lang.sevendays-study.com/ex-day7.html
+
+一週間で身につくC言語の基本|第３日目：ポインタと配列
+https://c-lang.sevendays-study.com/ex-day3_pointer_pointer.html
+
+C言語のexternの悪魔的で危ない誘惑【＊ご利用は自己責任で】 - なるぽのブログ
+https://yu-nix.com/archives/c-extern/
+
+C初心者が知っておきたいヘッダーファイルとリンクの基礎知識：目指せ！ Cプログラマ（終）（2/4 ページ） - ＠IT
+https://atmarkit.itmedia.co.jp/ait/articles/1404/11/news045_2.html
+
+識別子 - Wikipedia
+https://ja.wikipedia.org/wiki/%E8%AD%98%E5%88%A5%E5%AD%90
+
+外部リンケージ | Microsoft Docs
+https://docs.microsoft.com/ja-jp/cpp/c-language/external-linkage?view=msvc-170
+
+Cにおける識別子の有効範囲と変数の生存期間：目指せ！ Cプログラマ（9）（1/2 ページ） - ＠IT
+https://atmarkit.itmedia.co.jp/ait/articles/1104/26/news107.html
+
+関数プロトタイプ - Wikipedia
+https://ja.wikipedia.org/wiki/%E9%96%A2%E6%95%B0%E3%83%97%E3%83%AD%E3%83%88%E3%82%BF%E3%82%A4%E3%83%97
+
+メモリとオブジェクト | Programming Place Plus　新C++編
+https://programming-place.net/ppp/contents/cpp2/main/memory.html#alignment
+
+トップページ | Programming Place Plus　Ｃ言語編
+https://programming-place.net/ppp/contents/c/index.html#language
+
+値型と参照型
+http://wisdom.sakura.ne.jp/programming/cs/cs20.html
+
+落穂拾い:スタティックリンクとダイナミックリンク
+http://www.cc.kyoto-su.ac.jp/~kbys/kiso/cpu/dynamic-link.html
+
+リンカ
+https://tanakamura.github.io/pllp/docs/linker.html
+
+コンパイラの構造を解説 | Shinta's Site
+https://www.gadgety.net/shin/tips/unix/compiler.html
+
+そもそもコンパイラの中ってどうなっているの？：Javaでコンパイラの基礎を理解する（1）（2/2 ページ） - ＠IT
+https://atmarkit.itmedia.co.jp/ait/articles/0612/02/news016_2.html
+
+[雑記] 識別子のスコープとオブジェクトの寿命 - C# によるプログラミング入門 | ++C++; // 未確認飛行 C
+https://ufcpp.net/study/csharp/start/st_scope/?p=2
+
+データ・オブジェクトの概要 - IBM Documentation
+https://www.ibm.com/docs/ja/zos/2.3.0?topic=odod-overview-data-objects
+
+ポインタ⑤（動的メモリ割り当て） | Programming Place Plus　Ｃ言語編　第３５章
+https://programming-place.net/ppp/contents/c/035.html#allocated_storage_duration
+
