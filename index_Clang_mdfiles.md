@@ -1,13 +1,28 @@
 # 私にはC言語がわからない
 
 - [苦C　まとめ](./kuruC.md)
-- [ビルドの仕組み](./about_Build_Library_inClang.md)
+- [ビルドの仕組み](./Clang_Build.md)
 - [スコープと生存期間](./Scorp_and_Lifetime_inClang.md)
 - [ファイル](./Clang_file.md)
 - [ポインタ](./Clang_Pointer.md)
 
 
 ## 用語集
+### リテラル
+
+リテラル
+: 特定の型の値を直接記述したもの（$\fallingdotseq$ 定数）
+  例：`const int x = 10;`のとき
+  - `10` がリテラル
+  - `x` が定数
+
+
+C言語でリテラルなのは文字リテラルと複合リテラル
+
+- `""`で囲ったものは文字リテラル
+- `''`で囲ったものは文字定数
+
+
 
 ### static は２つある（なんでさ）
 1. スコープをファイル内に限定する（関数の外）
